@@ -55,7 +55,7 @@ A Python application for calculating structural support positions (mounts) and i
 ### Usage
 Run this command in terminal.
 ```
-python3 run_example.py
+python3 SolarPanelCalculator/run_example.py
 ```
 This will:
   - Initialize the calculator with a rafter at x=5.0
