@@ -49,14 +49,24 @@ A Python application for calculating structural support positions (mounts) and i
    source venv/bin/activate
    ```
 4. **Install dependencies from requirements.txt**
+- On Windows:
+   ```
+   pip install -r SolarPanelCalculator\requirements.txt
+   ``` 
+- On macOS/Linux:
    ```
    pip install -r SolarPanelCalculator/requirements.txt
    ```
 ### Usage
 Run this command in terminal.
-```
-python3 SolarPanelCalculator/run_example.py
-```
+- On Windows:
+   ```
+   python SolarPanelCalculator\run_example.py
+   ``` 
+- On macOS/Linux:
+   ```
+   python3 SolarPanelCalculator/run_example.py
+   ```
 This will:
   - Initialize the calculator with a rafter at x=5.0
   - Process a 10-panel solar array layout
