@@ -50,7 +50,7 @@ A Python application for calculating structural support positions (mounts) and i
    ```
 4. **Install dependencies from requirements.txt**
    ```
-   pip install -r requirements.txt
+   pip install -r SolarPanelCalculator/requirements.txt
    ```
 ### Usage
 Run this command in terminal.
