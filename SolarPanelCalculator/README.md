@@ -36,7 +36,7 @@ A Python application for calculating structural support positions (mounts) and i
 2. **Create a virtual environment**
 
    ```
-    python -m venv venv
+    python3 -m venv venv
    ```
 3. **Activate the virtual environment**
 
@@ -55,7 +55,7 @@ A Python application for calculating structural support positions (mounts) and i
 ### Usage
 Run this command in terminal.
 ```
-python run_example.py
+python3 run_example.py
 ```
 This will:
   - Initialize the calculator with a rafter at x=5.0
